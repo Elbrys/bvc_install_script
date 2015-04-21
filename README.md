@@ -2,6 +2,9 @@
 
 This script automates the install of BVC version 1.2.  With some changes it might work with other versions of BVC, however, it has only been tested with 1.2. This script assumes you have installed and setup Ubuntu 14.04 as per Jim Burns video here:  https://www.youtube.com/watch?v=saNnY7A55gM
 
+You can download a bare Ubuntu 14.04 virtual box VM here: https://s3.amazonaws.com/elbrys-public/ubuntu_14_04_for_bvc.ova
+The username and password are: bvc-user/bvc-user
+
 The BVC quick start instructions recommend installing BVC in the /opt directory. This script has been tested installing in the /opt directory as per the instructions.
 
 To use this script do the following:
